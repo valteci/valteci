@@ -2,7 +2,7 @@
 <strong>How to reach me</strong>
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/valteci-marcelino-coelho-junior-28004b237/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/valteci-marcelino-coelho-junior-28004b237/" target="_blank">Linkedin</a>
   </li>
 </ul>
 <br>
